@@ -6,6 +6,10 @@ AUTHOR = u'Maria Pichardo'
 SITENAME = u"Maria's blog"
 SITEURL = ''
 
+SITEURL = 'http://testpelican'
+
+GITHUB_URL = 'https://github.com/mariapichardo'
+
 PATH = 'content'
 
 TIMEZONE = 'America/New_York'
